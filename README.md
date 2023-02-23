@@ -1,16 +1,39 @@
-### Hi there 👋
+oi sou o Guilherme 
+hi i'm gui
 
-<!--
-**Guilherme0zero/Guilherme0zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently studying high school
 
-Here are some ideas to get you started:
+- 🔭 estou Atualmente estudando no ensino médio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on in game projects
+
+- 👯 Estou à procura de colaborar em projetos de jogos
+
+- 📫 How to reach me: Guilherme_Contato_Profissional@proton.me
+
+- 📫 Como chegar a mim:Guilherme_Contato_Profissional@proton.me
+
+- 😄 Pronouns:he/she
+
+- 😄 Pronomes:ele/dele
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme0zero&show_icons=false&theme=radical)
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+<img align="center" alt="Gui-python" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+ <img align="center" alt="Gui-CSS" height="30" width="40"       
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     
+   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          
+ 
+          
+
+                        
+          
+          
